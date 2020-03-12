@@ -5,15 +5,19 @@ More info: https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/AD
 
 === Instructions ===
 
-0. Open PowerShell console (admin)
+- Open PowerShell console (admin)
 
-1. Clone GIT:
+
+- Clone GIT:
+
 PS> git clone https://github.com/wenupix/smb3dis
 
-2. Enter to dir
+- Enter to dir
+
 PS> cd smb3dis
 
-3. Run Batch
+- Run Batch
+
 PS> .\patch_adv200005.ps1
 
 
